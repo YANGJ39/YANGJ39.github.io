@@ -1,0 +1,17 @@
+#title{
+	font-size: 25px;
+	font-family: sans-serif;
+	color: #6C5F5D;
+}
+
+#text{
+	font-size: 15px;
+	font-family: sans-serif;
+	font-style: italic;
+	line-height:80%
+}
+
+
+.img1{
+    border-radius:50%;
+}
